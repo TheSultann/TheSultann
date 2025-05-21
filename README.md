@@ -11,7 +11,6 @@ Junior Backend Developer
 * 🤝  I'm open to collaborating on Telegram bots, backend tools, EdTech projects, API
 * ⚡  Always learning and improving 💻 -->
 
-
 [![Header](https://github.com/TheSultann/TheSultann/blob/main/assets/TheSultan%20(1).png)](https://t.me/S7L5An)
 
 <div align="center">
@@ -25,11 +24,11 @@ Junior Backend Developer
 
 ### 🚀 About Me
 
-*   Backend-разработчик, фокусируюсь на **Node.js**, **Express.js** и создании эффективных **API**.
-*   🌍 Живу и работаю в солнечном Узбекистане.
-*   🧠 Постоянно углубляю знания в **PostgreSQL**, **MongoDB** и архитектуре бэкенд-систем.
-*   💡 Всегда в поиске новых вызовов и возможностей для роста.
-*   ⚡️ Fun fact: Обожаю автоматизировать рутину с помощью кода!
+*   Backend developer, focusing on **Node.js**, **Express.js**, and creating efficient **APIs**.
+*   🌍 Based in sunny Uzbekistan.
+*   🧠 Constantly deepening my knowledge in **PostgreSQL**, **MongoDB**, and backend system architecture.
+*   💡 Always looking for new challenges and growth opportunities.
+*   ⚡️ Fun fact: I love automating routine tasks with code!
 
 ---
 
@@ -37,31 +36,31 @@ Junior Backend Developer
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   </a>
   <a href="https://core.telegram.org/bots/api" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram api"/>
+    <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
 </p>
 
@@ -69,23 +68,19 @@ Junior Backend Developer
 
 ### 🌱 I'm Currently Learning & Exploring
 
-*   Углубленное изучение **Node.js** и **Express.js** для создания сложных и масштабируемых API.
-*   Освоение тонкостей **PostgreSQL** и **MongoDB**, включая оптимизацию запросов и репликацию.
-*   Разработка продвинутых **Telegram-ботов** с интеграцией внешних сервисов.
-*   Паттерны проектирования и лучшие практики в **API design** (RESTful, GraphQL).
-*   Основы **Docker** для контейнеризации приложений.
+*   In-depth study of **Node.js** and **Express.js** for building complex and scalable APIs.
+*   Mastering the intricacies of **PostgreSQL** and **MongoDB**, including query optimization and replication.
+*   Developing advanced **Telegram bots** with external service integrations.
 
 ---
 
 ### 🤝 Let's Collaborate!
 
-Я открыт для сотрудничества над интересными проектами. Особенно меня привлекают:
-*   🤖 **Telegram-боты:** от простых до комплексных, с интеграциями и сложной логикой.
-*   🛠️ **Бэкенд-инструменты:** утилиты, API для сервисов, микросервисы.
-*   🎓 **EdTech проекты:** образовательные платформы, инструменты для обучения.
-*   🧩 **API Development:** разработка и интеграция API для различных нужд.
-
-Если у вас есть идея или проект, где мои навыки могут быть полезны, пишите!
+I'm open to collaborating on interesting projects. I'm particularly interested in:
+*   🤖 **Telegram Bots:** from simple to complex, with integrations and sophisticated logic.
+*   🛠️ **Backend Tools:** utilities, service APIs, microservices.
+*   🎓 **EdTech Projects:** educational platforms, learning tools.
+*   🧩 **API Development:** designing and integrating APIs for various needs.
 
 ---
 
@@ -101,7 +96,7 @@ Junior Backend Developer
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSultann&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Sultan's Top Languages"/>
   </a>
 </p>
-<!-- Для отображения Streak Stats, можешь раскомментировать и настроить:
+<!-- To display Streak Stats, you can uncomment and configure:
 <p align="center">
   <a href="https://github.com/TheSultann">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSultann&theme=tokyonight&hide_border=true" alt="Sultan's GitHub Streak"/>
@@ -113,15 +108,20 @@ Junior Backend Developer
 
 ### 📫 How to Reach Me
 
-*   💬 Telegram: [@S7L5An](https://t.me/S7L5An) (предпочтительный способ связи)
-*   ✉️ Email: `твоя_почта@example.com` (замени на свой email)
-*   🔗 LinkedIn: `https://linkedin.com/in/твой_профиль` (если есть, добавь ссылку)
+*   💬 **Telegram:** [@S7L5An](https://t.me/S7L5An) (preferred contact method)
+*   ✉️ **Email:** [otanazarovsultanbek@gmail.com](mailto:otanazarovsultanbek@gmail.com)
+*   🔗 **LinkedIn:** [Sultan Otanazarov](https://www.linkedin.com/in/s7ltan)
 
 <p align="center">
   <a href="https://t.me/S7L5An" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-S7L5An-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <!-- Если добавишь LinkedIn и Email, можешь сделать похожие значки -->
+  <a href="mailto:otanazarovsultanbek@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/s7ltan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-s7ltan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
