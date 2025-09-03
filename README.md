@@ -14,7 +14,7 @@ Junior Backend Developer
 [![Header](https://github.com/TheSultann/TheSultann/blob/main/assets/TheSultan%20(1).png)](https://t.me/S7L5An)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="24px" />
   <h1>Hi there, I'm Sultan!</h1>
   <p><strong>Junior Backend Developer from Uzbekistan 🇺🇿</strong></p>
   <p><em>Passionate about building robust server-side applications and interactive Telegram bots.</em></p>
