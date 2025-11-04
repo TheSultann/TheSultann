@@ -21,7 +21,7 @@
 ```javascript
 const sultan = {
     role: "Backend Developer",
-    location: "Qarshi, Uzbekistan 🇺🇿",
+    location: "Xorazim, Uzbekistan 🇺🇿",
     specialization: ["Node.js", "Express.js", "Telegram Bots", "API Design"],
     currentFocus: "Building scalable microservices and intelligent automation",
     interests: ["EdTech", "AI Integration", "Clean Architecture", "DevOps"],
