@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="assets/neofetch.svg" alt="Sultanbek Otanazarov: Backend Developer, Telegram Bot Specialist, Uzbekistan" width="855">
+# 👋 Hi, I'm Sultanbek Otanazarov
+
+### 🚀 Backend Developer | 🤖 Telegram Bot Specialist | 🇺🇿 Based in Uzbekistan
 
 <p align="center">
   <em>Building scalable backend systems and intelligent automation solutions</em>
 </p>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@S7L5An-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S7L5An)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-s7ltan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s7ltan)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otanazarovsultanbek@gmail.com)
 
 </div>
 
